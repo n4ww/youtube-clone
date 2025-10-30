@@ -6,7 +6,7 @@ Preview :
     ![Project Screenshot](image.png)
 
 Live Demo :  
-    View it here: [https://n4ww.github.io/youtube-clone/](https://n4ww.github.io/youtube-clone/)
+    View it here: [Live Demo](https://n4ww.github.io/youtube-clone/)
 
 Built With
 - HTML
